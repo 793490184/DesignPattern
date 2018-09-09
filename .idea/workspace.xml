@@ -296,11 +296,25 @@
       <method v="2" />
     </configuration>
     <list>
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <item itemvalue="Python.Composite" />
+      <item itemvalue="Python.Prototype" />
+      <item itemvalue="Python.Singleton" />
+      <item itemvalue="Python.Adapter" />
+      <item itemvalue="Python.Bridge" />
+=======
+=======
+>>>>>>> parent of 8610504... Day02
       <item itemvalue="Python.Prototype" />
       <item itemvalue="Python.Singleton" />
       <item itemvalue="Python.Adapter" />
       <item itemvalue="Python.Bridge" />
       <item itemvalue="Python.Composite" />
+<<<<<<< HEAD
+>>>>>>> parent of 8610504... Day02
+=======
+>>>>>>> parent of 8610504... Day02
     </list>
     <recent_temporary>
       <list>
